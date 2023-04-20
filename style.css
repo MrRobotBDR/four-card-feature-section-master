@@ -68,23 +68,23 @@ body {
 
 .card1 {
 	margin-right: 30px;
-	border-top: 10px solid #44d3d2;
+	border-top: 4px solid #44d3d2;
 	border-radius: 8px;
 }
 
 .card2 {
-	border-top: 10px solid #ea5454;
+	border-top: 4px solid #ea5454;
 	border-radius: 8px;
 }
 
 .card3 {
-	border-top: 10px solid #fcae4a;
+	border-top: 4px solid #fcae4a;
 	border-radius: 8px;
 }
 
 .card4 {
 	margin-left: 30px;
-	border-top: 10px solid #549ef2;
+	border-top: 4px solid #549ef2;
 	border-radius: 8px;
 }
 
