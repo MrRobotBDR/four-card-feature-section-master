@@ -36,6 +36,7 @@ body {
 
 .container__text--content p {
 	font-size: 15px;
+	color: var(--text-color);
 }
 
 .card-container {
@@ -66,23 +67,23 @@ body {
 
 .card1 {
 	margin-right: 30px;
-	border-top: 5px solid #44d3d2;
+	border-top: 7px solid #44d3d2;
 	border-radius: 8px;
 }
 
 .card2 {
-	border-top: 5px solid #ea5454;
+	border-top: 7px solid #ea5454;
 	border-radius: 8px;
 }
 
 .card3 {
-	border-top: 5px solid #fcae4a;
+	border-top: 7px solid #fcae4a;
 	border-radius: 8px;
 }
 
 .card4 {
 	margin-left: 30px;
-	border-top: 5px solid #549ef2;
+	border-top: 7px solid #549ef2;
 	border-radius: 8px;
 }
 
